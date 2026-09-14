@@ -1,4 +1,3 @@
-package Figuras;
 
 import java.util.Scanner;
 

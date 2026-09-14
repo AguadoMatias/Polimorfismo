@@ -1,4 +1,3 @@
-package Figuras;
 
 public abstract class Figura {
 	public String tipo;
